@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NATGEO HD¹">
-    <display-name lang="pt">NATGEO HD¹</display-name>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">NATIONAL GEOGRAFHY HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Discovery Channel">
-    <display-name lang="pt">Discovery Channel</display-name>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="The History Channel">
-    <display-name lang="pt">The History Channel</display-name>
+  <channel id="History HD">
+    <display-name lang="pt">History HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
 </tv>
